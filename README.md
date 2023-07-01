@@ -79,8 +79,11 @@ When contributing to this project, please ensure that you follow the code of con
 AdvCalc was built using the following technologies and libraries:
 
 React.js
+
 Tailwind CSS
+
 gh-pages
+
 We would like to express our gratitude to the authors and contributors of these amazing tools that made this project possible.
 
 ## Contact
